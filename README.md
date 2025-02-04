@@ -1,3 +1,3 @@
 # Final-Assignament
 
-No se que estoy haciendo jaja lol
+Avance del Proyecto final del curso Python para Ciencia de Datos
